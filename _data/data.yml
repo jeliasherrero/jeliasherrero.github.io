@@ -63,11 +63,20 @@ career-profile:
         
 
 education:
-    - degree: 
-      university:
+    - degree: PhD in Electronics Engineering
+      university: University of Zaragoza
       time: 
       details: |
-     
+    
+    - degree: Ingeniero Industrial
+      university: University of Zaragoza
+      time: 
+      details: |
+    
+    - degree: Ingeniero Técnico Industrial
+      university: University of Zaragoza
+      time: 
+      details: |
 
 
 educationcomplete:
