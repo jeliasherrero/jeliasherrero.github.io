@@ -46,20 +46,20 @@ career-profile:
       as researcher with Computer Vision and Deep Learning subjects.
 
 
-news:
-    title: News
-    intro: |
+#news:
+#    title: News
+#    intro: |
         
     
-    posts:
-        - time: February 1992
-          title: Ingeniero Técnico Industrial en la rama de Electrónica
+#    posts:
+#        - time: February 1992
+#          title: Ingeniero Técnico Industrial en la rama de Electrónica
           
-        - time: October 1997
-          title: Ingeniero Industrial con la especialidad de Robótica y Automatización
+#        - time: October 1997
+#          title: Ingeniero Industrial con la especialidad de Robótica y Automatización
           
-        - time: July 2005
-          title: PhD in Electronics Engineering
+#        - time: July 2005
+#          title: PhD in Electronics Engineering
         
 
 education:
@@ -95,51 +95,27 @@ education:
 
 
 educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: PhD in Electronics Engineering
+      university: University of Zaragoza
+      time: 2001 - 2005
       details: |
+        Análisis del movimiento humano
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
-
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+          - Computer vision
+          - Object tracking
+          - Image segmentation
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
+    - degree: Ingeniero Industrial (Robótica y Automatización)
+      university: University of Zaragoza
+      time: 1992 - 1997
       details: |
-        Master degree in Software Engineering
+        
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
+    - degree: Ingeniero Técnico Industrial (Eléctrónica)
+      university: University of Zaragoza
+      time: 1989 - 1992
       details: |
-        Master degree in Computer Engineering
+        
 
 
 #experiences:
