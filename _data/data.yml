@@ -7,42 +7,37 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
+    name: Elías Herrero
     tagline: Computer Vision and Machine Learning researcher
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
+    email: jelias@unizar.es
     phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    website: jeliasherrero.github.io/publications/ #do not add http://
+    linkedin: jeliasherrero
+    github: jeliasherrero
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    twitter: '@jeliasherrero'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Fluent
-
-      - idiom: Italian
-        level: Native
-
-      - idiom: German
         level: Colloquial
 
+      - idiom: Spanish
+        level: Native
+
     interests:
-      - item: Guitar
+      - item: Aviation
         link:
 
-      - item: Basketball
+      - item: Golf
         link:
 
-      - item: Biking
-        link:
 
 career-profile:
     title: Career Profile
