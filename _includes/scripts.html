@@ -1,4 +1,10 @@
-<script src="{{ base_path }}/assets/js/main.min.js"></script>
+<!-- Javascript -->
+<script type="text/javascript" src="{{site.baseurl}}/assets/plugins/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
-{% include analytics.html %}
-{% include /comments-providers/scripts.html %}
+<!-- custom js -->
+<script type="text/javascript" src="{{site.baseurl}}/assets/js/main.js"></script>
+
+{% if site.analytics %}
+  {% include analytics.html %}
+{% endif %}
