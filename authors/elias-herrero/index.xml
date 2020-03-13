@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elías Herrero | Academic and researching CV</title>
+    <link>jeliasherrero.github.io/authors/elias-herrero/</link>
+      <atom:link href="jeliasherrero.github.io/authors/elias-herrero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elías Herrero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Elías Herrero</title>
+      <link>jeliasherrero.github.io/authors/elias-herrero/</link>
+    </image>
+    
+    <item>
+      <title>From Features to Attribute Graphs for Point Set Registration</title>
+      <link>jeliasherrero.github.io/publication/orrite-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/orrite-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-based Location Recognition and Scenario Modelling</title>
+      <link>jeliasherrero.github.io/publication/orrite-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/orrite-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Clustering Using Friendship Path Similarity</title>
+      <link>jeliasherrero.github.io/publication/rodriguez-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/rodriguez-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Segmentation and Recognition of Human Actions in Monocular Sequences</title>
+      <link>jeliasherrero.github.io/publication/orrite-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/orrite-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning of Human Poses for Action Recognition</title>
+      <link>jeliasherrero.github.io/publication/rodriguez-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/rodriguez-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biometric Hand Recognition Using Neural Networks</title>
+      <link>jeliasherrero.github.io/publication/martinez-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/martinez-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

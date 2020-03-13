@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Medrano | Academic and researching CV</title>
+    <link>jeliasherrero.github.io/authors/carlos-medrano/</link>
+      <atom:link href="jeliasherrero.github.io/authors/carlos-medrano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos Medrano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Carlos Medrano</title>
+      <link>jeliasherrero.github.io/authors/carlos-medrano/</link>
+    </image>
+    
+    <item>
+      <title>Spectral Clustering Using Friendship Path Similarity</title>
+      <link>jeliasherrero.github.io/publication/rodriguez-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/rodriguez-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning of Human Poses for Action Recognition</title>
+      <link>jeliasherrero.github.io/publication/rodriguez-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/rodriguez-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Approximation for Tracking Occluding and Interacting Targets</title>
+      <link>jeliasherrero.github.io/publication/medrano-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/medrano-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean field approach for tracking similar objects</title>
+      <link>jeliasherrero.github.io/publication/medrano-2009-mean/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/medrano-2009-mean/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

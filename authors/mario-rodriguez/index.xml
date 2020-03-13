@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mario Rodriguez | Academic and researching CV</title>
+    <link>jeliasherrero.github.io/authors/mario-rodriguez/</link>
+      <atom:link href="jeliasherrero.github.io/authors/mario-rodriguez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mario Rodriguez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mario Rodriguez</title>
+      <link>jeliasherrero.github.io/authors/mario-rodriguez/</link>
+    </image>
+    
+    <item>
+      <title>Image-based Location Recognition and Scenario Modelling</title>
+      <link>jeliasherrero.github.io/publication/orrite-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/orrite-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Clustering Using Friendship Path Similarity</title>
+      <link>jeliasherrero.github.io/publication/rodriguez-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/rodriguez-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Segmentation and Recognition of Human Actions in Monocular Sequences</title>
+      <link>jeliasherrero.github.io/publication/orrite-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/orrite-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning of Human Poses for Action Recognition</title>
+      <link>jeliasherrero.github.io/publication/rodriguez-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/rodriguez-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

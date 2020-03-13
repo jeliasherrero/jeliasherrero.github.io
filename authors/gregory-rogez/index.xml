@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Rogez | Academic and researching CV</title>
+    <link>jeliasherrero.github.io/authors/gregory-rogez/</link>
+      <atom:link href="jeliasherrero.github.io/authors/gregory-rogez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregory Rogez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gregory Rogez</title>
+      <link>jeliasherrero.github.io/authors/gregory-rogez/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Segmentation and Recognition of Human Actions in Monocular Sequences</title>
+      <link>jeliasherrero.github.io/publication/orrite-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/orrite-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

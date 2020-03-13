@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emiliano Bernués | Academic and researching CV</title>
+    <link>jeliasherrero.github.io/authors/emiliano-bernues/</link>
+      <atom:link href="jeliasherrero.github.io/authors/emiliano-bernues/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emiliano Bernués</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Emiliano Bernués</title>
+      <link>jeliasherrero.github.io/authors/emiliano-bernues/</link>
+    </image>
+    
+    <item>
+      <title>Color Distribution Tracking for Facial Analysis</title>
+      <link>jeliasherrero.github.io/publication/gracia-roche-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/gracia-roche-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

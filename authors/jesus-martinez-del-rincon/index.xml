@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesus Martinez-del-Rincon | Academic and researching CV</title>
+    <link>jeliasherrero.github.io/authors/jesus-martinez-del-rincon/</link>
+      <atom:link href="jeliasherrero.github.io/authors/jesus-martinez-del-rincon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesus Martinez-del-Rincon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jesus Martinez-del-Rincon</title>
+      <link>jeliasherrero.github.io/authors/jesus-martinez-del-rincon/</link>
+    </image>
+    
+    <item>
+      <title>An efficient particle filter for color-based tracking in complex scenes</title>
+      <link>jeliasherrero.github.io/publication/del-rincon-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>jeliasherrero.github.io/publication/del-rincon-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
