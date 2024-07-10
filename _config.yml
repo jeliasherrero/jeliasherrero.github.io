@@ -24,7 +24,23 @@ author:
   avatar           : "profile.png"
   name             : "J. Elías Herrero Jaraba"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "(Member, IEEE)
+received the Ph.D. degree in engineering from the
+University of Zaragoza.
+In 1999, he worked in the automotive field at
+the Production Department, Opel Spain, for four
+years. Since June 2002, he has been a Professor
+at the University of Zaragoza. In the meantime,
+he was a Coordinator of the smart vehicle initiative
+at the Aragon Institute for Engineering Research
+(I3A). He currently holds a European patent and
+has led to more than six projects funded in public competitions, more than
+20 projects with companies, 12 indexed publications, and more than 50 contributions to international conferences. It is worth mentioning the 3 million
+awards for his research in the CvLAB Research Group. His teaching work
+has focused on electronics, from its basics to power electronics, including
+embedded systems. Within the university, he has developed his research in
+the area of computer vision. Since 2012, he has focused his research interests
+in the field of neural networks, and more recently, in deep learning."
   location         : "Calatayud"
   employer         : "University of Zaragoza"
   uri              : www.eina.es
