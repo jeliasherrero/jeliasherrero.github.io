@@ -1,0 +1,13 @@
+---
+title: "Detection and classification of fault types in distribution lines by applying contrastive learning to GAN encoded time-series of pulse reflectometry signals"
+collection: publications
+permalink: 10.1109/ACCESS.2022.3214994
+excerpt: 'This study proposes a new method for detecting and classifying faults in distribution lines. The physical principle of classification is based on time-domain pulse reflectometry (TDR). These high-frequency pulses are injected into the line, propagate through all of its bifurcations, and are reflected back to the injection point. According to the impedances encountered along the way, these signals carry information regarding the state of the line. In the present work, an initial signal database was obtained using the TDR technique, simulating a real distribution line using (PSCAD™). By transforming these signals into images and reducing their dimensionality, these signals are processed using convolutional neural networks (CNN). In particular, in this study, contrastive learning in Siamese networks was used for the classification of different types of faults (ToF). In addition, to avoid the problem of overfitting owing to the scarcity of examples, generative adversarial neural networks (GAN) have been used to synthesise new examples, enlarging the initial database. The combination of Siamese neural networks and GAN allows the classification of this type of signal using only synthesised examples to train and validate and only the original examples to test the network. This solves the problem of the lack of original examples in this type of signal of natural phenomena which are difficult to obtain and simulate.'
+date: 2022, January
+venue: 'IEEE Access'
+slidesurl: ''
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'J. G. Fornás, E. H. Jaraba, A. L. Estopiñan and J. Saldana, "Detection and Classification of Fault Types in Distribution Lines by Applying Contrastive Learning to GAN Encoded Time-Series of Pulse Reflectometry Signals," in IEEE Access, vol. 10, pp. 110521-110536, 2022'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
