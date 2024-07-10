@@ -12,7 +12,7 @@ title                    : "José Elías Herrero Jaraba"
 title_separator          : "-"
 name                     : &name "Elías Herrero"
 description              : &description "Profesor de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza"
-url                      : https://jeliasherrero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
