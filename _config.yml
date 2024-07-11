@@ -21,22 +21,19 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "J. Elías Herrero Jaraba"
   pronouns         : # example: "she/her"  
   bio              : "(Member, IEEE)
 received the Ph.D. degree in engineering from the
-University of Zaragoza.<\br>
-Since June 2002, he has been a Professor
-at the University of Zaragoza. In the meantime,
-he was a Coordinator of the smart vehicle initiative
-at the Aragon Institute for Engineering Research
-(I3A). 
+University of Zaragoza. <br/>
 
-His teaching work has focused on electronics, from its basics to power electronics, including
-embedded systems. Within the university, he has developed his research in
-the area of computer vision. Since 2012, he has focused his research interests
-in the field of neural networks, and more recently, in deep learning."
+Teaching work: has focused on electronics, from its basics to power electronics, including
+embedded systems.  <br/>
+
+Researching: Within the university, he has developed his research in
+the area of computer vision. And more recently, he has focused his research interests
+in the field of neural networks and deep learning."
   location         : "Calatayud"
   employer         : "University of Zaragoza"
   uri              : www.eina.es
